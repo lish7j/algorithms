@@ -1,4 +1,4 @@
-# algorithms
+# Algorithms
 算法题实现
 ### 1.小美的美丽树
   ##### 输入描述:
