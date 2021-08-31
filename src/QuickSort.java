@@ -1,4 +1,8 @@
-class Main {
+import java.util.Deque;
+import java.util.LinkedList;
+import java.util.Random;
+
+public class QuickSort {
   public static void main(String[] args) {
         int[] nums = new int[30];
         Random r = new Random();
