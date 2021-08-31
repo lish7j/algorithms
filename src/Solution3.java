@@ -12,5 +12,6 @@ public class Solution3 {
             }
         }
         return arr[left];
+
     }
 }

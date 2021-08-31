@@ -18,12 +18,16 @@
     3
   ##### 输出
     2
-  [代码](https://github.com/wxxlsj/algorithms/blob/main/Solution.java)
+  [代码](https://github.com/lish7j/algorithms/blob/main/Solution.java)
 
 #### 2.荷兰过期问题
     （1）int数组，实现偶数在前，奇数在后
     （2）同上，不改变相对顺序
-  [代码](https://github.com/wxxlsj/algorithms/blob/main/Solution2.java)
+  [代码](https://github.com/lish7j/algorithms/blob/main/Solution2.java)
 #### 3.选择数组找最小
     （1）比如在[3，4，5，1，2]中找到1最小
-[代码](https://github.com/wxxlsj/algorithms/blob/main/Solution3.java)
+[代码](https://github.com/lish7j/algorithms/blob/main/Solution2.java)
+
+#### 4.最长递增子序列，如有多个，按照字典序输出第一个。
+    比如:[1，2，8，4，6]要输出[1，2，4]
+[代码](https://github.com/lish7j/algorithms/blob/main/src/Solution3.java)
