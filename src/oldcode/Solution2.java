@@ -1,3 +1,5 @@
+package oldcode;
+
 import java.util.Arrays;
 
 public class Solution2 {

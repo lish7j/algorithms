@@ -1,3 +1,5 @@
+package oldcode;
+
 public class Solution3 {
     public int findMin(int[] arr) {
         int left = 0, right = arr.length - 1;

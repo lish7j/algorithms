@@ -1,6 +1,5 @@
 package sorts;
 
-import java.util.Arrays;
 import java.util.Random;
 
 public class Helper {
@@ -15,11 +14,19 @@ public class Helper {
 
     public static boolean isEquals(int[] a, int[] b) {
         assert a.length == b.length;
-
         for (int i = 0; i < a.length; i++) {
             if (a[i] != b[i])
                 return false;
         }
         return true;
+    }
+
+    public static long startTest() {
+        return System.currentTimeMillis();
+    }
+
+    public static void printPerformance(long start) {
+        long cost = System.currentTimeMillis() - start;
+        System.out.println(cost);
     }
 }

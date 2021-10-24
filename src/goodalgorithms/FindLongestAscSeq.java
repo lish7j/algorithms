@@ -1,3 +1,5 @@
+package goodalgorithms;
+
 import java.util.*;
 
 public class FindLongestAscSeq {
